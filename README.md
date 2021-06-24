@@ -16,5 +16,4 @@ Task Description 📄
   👉docker run
   👉docker rm -f
   👉docker exec
- 👉 add more if you want.  (Optional) 
-👉 Make a blog/article/video explaining this task step by step. 
+ 👉 add more if you want. 
